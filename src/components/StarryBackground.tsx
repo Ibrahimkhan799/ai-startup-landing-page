@@ -201,4 +201,6 @@ const StarryBackground = React.forwardRef<HTMLDivElement, Props>(({className,min
   );
 });
 
+StarryBackground.displayName = "StarryBackground";
+
 export default StarryBackground;
