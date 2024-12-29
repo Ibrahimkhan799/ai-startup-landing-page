@@ -10,6 +10,6 @@ A powerful, Notion-inspired Kanban board application built with modern web techn
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-[Demo](https://notion-kanban-six.vercel.app/) • [Documentation](README.md) • [Report Bug](https://github.com/Ibrahimkhan799/kanban-board/issues) • [Request Feature](https://github.com/Ibrahimkhan799/kanban-board/issues)
+[Demo](https://notion-kanban-six.vercel.app/) • [Documentation](README.md) • [Report Bug](https://github.com/Ibrahimkhan799/ai-startup-landing-page/issues) • [Request Feature](https://github.com/Ibrahimkhan799/ai-startup-landing-page/issues)
 
 </div>
