@@ -1,0 +1,14 @@
+{
+  "lightPrimary": "rgba(149, 148, 255, 1)",
+  "semiLightPrimary": "rgba(66, 72, 255, 1)",
+  "darkPrimary": "rgba(0, 14, 66, 1)",
+  "shadowPrimary": "rgba(97, 132, 255, 1)",
+  "shadowPrimaryHalf": "rgba(97, 120, 255, 0.5)",
+  "shadowPrimaryHalfQuarter": "rgba(97, 138, 255, 0.7)",
+  "shadowPrimaryQuarter": "rgba(97, 130, 255, 0.3)",
+  "lightSecondaryHalf": "rgba(32, 54, 136, 0.5)",
+  "lightSecondary": "rgba(32, 46, 136, 1)",
+  "darkSecondary": "rgba(0, 2, 36, 0.5)",
+  "primary": "rgba(36, 34, 140, 1)",
+  "secondary": "rgba(13, 18, 48, 1)"
+}

@@ -1,0 +1,14 @@
+.colors {
+  --lightPrimary: hsl(180, 100%, 79%);
+  --semiLightPrimary: hsl(184, 100%, 63%);
+  --darkPrimary: hsl(181, 100%, 13%);
+  --shadowPrimary: hsl(184, 100%, 69%);
+  --shadowPrimaryHalf: hsla(184, 100%, 69%, 0.5);
+  --shadowPrimaryHalfQuarter : hsla(184, 100%, 69%, 0.7);
+  --shadowPrimaryQuarter: hsla(184, 100%, 69%, 0.3);
+  --lightSecondaryHalf: hsla(185, 62%, 33%, 0.5);
+  --lightSecondary: hsla(185, 62%, 33%);
+  --darkSecondary: hsla(184, 100%, 7%, 0.5);
+  --primary: hsl(185, 61%, 34%);
+  --secondary: hsl(181, 56%, 12%);
+}
